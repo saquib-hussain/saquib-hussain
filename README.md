@@ -2,7 +2,7 @@
 
 I’m Saquib Hussain working as software engineer currently living in Chennai(India). 
 
-Interested in Data driven problem using ML, DL.
+Interested in data driven problem using ML, DL.
 
 currently learning Image/video processing using OpenCV and PyTesseract
 
