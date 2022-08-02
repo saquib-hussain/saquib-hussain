@@ -1,8 +1,8 @@
-**Hi 👋**
+**Hi I’m Saquib Hussain 👋**
 
-I’m Saquib Hussain working as software engineer currently living in Chennai(India). 
+I’m working as software engineer at **Onward Technologies** Chennai(India). 
 
-Interested in data driven problem using ML, DL.
+Interested in data driven problem using ML, DL and Python.
 
 currently learning Image/video processing using OpenCV and PyTesseract
 
