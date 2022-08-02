@@ -6,7 +6,7 @@ Interested in Data driven problem using ML, DL.
 
 currently learning Image/video processing using OpenCV and PyTesseract
 
-Please, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/saquibyzd/) or through [Email](saquibhussain)
+Please, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/saquibyzd/) or through [Email](saquibhussainn@gmail.com)
 
 
 <!---
